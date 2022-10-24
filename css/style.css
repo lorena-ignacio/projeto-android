@@ -4,8 +4,8 @@
 
 @font-face { /* android */
    font-family: 'Android';
-   src: url('/modulo-01-02/desafios/d010\ desafio-android/fonts/idroid.otf')format('opentype'),
-   url('/modulo-01-02/desafios/d010\ desafio-android/fonts/idroid.ttf') format('truetype');
+   src: url('/fonts/idroid.otf')format('opentype'),
+   url('/fonts/idroid.ttf') format('truetype');
    font-weight: bolder;
    font-style: normal;
 }
