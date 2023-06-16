@@ -4,14 +4,14 @@
 
 @font-face {
    font-family: 'Android';
-   src: url('/font/idroid/IDroid.otf')format('opentype'),
-   url('/font/idroid/IDroid.ttf')format('truetype'),
-   url('/font/idroid/IDroid-Bold.otf')format('opentype'),
-   url('/font/idroid/IDroid-Bold.ttf')format('truetype'),
-   url('/font/idroid/IDroid-Bold-Italic.otf')format('opentype'),
-   url('/font/idroid/IDroid-Bold-Italic.ttf')format('truetype'),
-   url('/font/idroid/IDroid-Italic.otf')format('opentype'),
-   url('/font/idroid/IDroid-Italic.ttf')format('truetype');
+   src:url('../font/idroid/IDroid.otf')format('opentype'),
+   url('../font/idroid/IDroid.ttf')format('truetype'),
+   url('../font/idroid/IDroid-Bold.otf')format('opentype'),
+   url('../font/idroid/IDroid-Bold.ttf')format('truetype'),
+   url('../font/idroid/IDroid-Bold-Italic.otf')format('opentype'),
+   url('../font/idroid/IDroid-Bold-Italic.ttf')format('truetype'),
+   url('../font/idroid/IDroid-Italic.otf')format('opentype'),
+   url('../font/idroid/IDroid-Italic.ttf')format('truetype');
    font-weight: normal;
 }
 
